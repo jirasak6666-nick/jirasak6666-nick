@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-jirasak6666-nick/jirasak6666-nick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jirasak6666-nick/jirasak6666-nick is a ✨ special ✨ repository because its `README.md` (nick) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
